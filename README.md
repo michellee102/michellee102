@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michellee102, I'm 20 years old and currently a Web Development student at the HAN in Arnhem!
 - 👀 I made small school projects in:
     - Java
-    - HTML/CSS/PHP
+    - HTML/CSS/PHP/JS
     - -> https://iproject10.ip.aimsites.nl/
     - C and C++ (Arduino)
     - SQL
