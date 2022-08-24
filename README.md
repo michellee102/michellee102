@@ -5,9 +5,8 @@
     - -> https://iproject10.ip.aimsites.nl/
     - C and C++ (Arduino)
     - SQL
-- 🌱 I’m currently bettering my HTML/CSS/PHP skills and soon gonna start with a JavaScript course on Udemy.
+- 🌱 I’m currently bettering my HTML/CSS/JAVASCRIPT skills.
 
-- 📫 If you want to collaborate, don't hesitate and send me a message!
 - ✉ m.jolink@student.han.nl
 
 
