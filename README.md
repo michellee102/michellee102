@@ -2,7 +2,6 @@
 - 👀 I made small school projects in:
     - Java
     - HTML/CSS/PHP/JS
-    - -> https://iproject10.ip.aimsites.nl/
     - C and C++ (Arduino)
     - SQL
 - 🌱 I’m currently bettering my HTML/CSS/JAVASCRIPT skills.
